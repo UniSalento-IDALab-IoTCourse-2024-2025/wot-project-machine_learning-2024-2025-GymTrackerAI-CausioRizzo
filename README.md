@@ -23,3 +23,5 @@ Questo componente contiene il modello di **classificazione esercizi** utilizzato
   (https://github.com/UniSalento-IDALab-IoTCourse-2024-2025/wot-project-backend-2024-2025-GymTrackerAI-CausioRizzo)
 - Machine Learning (questo repo):
   (https://github.com/UniSalento-IDALab-IoTCourse-2024-2025/wot-project-machine_learning-2024-2025-GymTrackerAI-CausioRizzo)
+- Presentazione:
+  (https://github.com/UniSalento-IDALab-IoTCourse-2024-2025/wot-project-presentation-2024-2025-GymTrackerAI-CausioRizzo)
