@@ -5,6 +5,7 @@
 
 Questo componente contiene il modello di **classificazione esercizi** utilizzato dall'app GymTrackerAI. Il modello è addestrato per riconoscere 3 esercizi (Plank, JumpingJack, SquatJack) a partire dai dati dell'accelerometro raccolti tramite SensorTile.Box PRO.
 
+---
 
 ## Architettura del Sistema
 
