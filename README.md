@@ -1,11 +1,8 @@
 # GymTrackerAI – Machine Learning
 
-
 ## Descrizione Generale
 
 Questo componente contiene il modello di **classificazione esercizi** utilizzato dall'app GymTrackerAI. Il modello è addestrato per riconoscere 3 esercizi (Plank, JumpingJack, SquatJack) a partire dai dati dell'accelerometro raccolti tramite SensorTile.Box PRO.
-
----
 
 ## Architettura del Sistema
 
@@ -17,7 +14,6 @@ Questo componente contiene il modello di **classificazione esercizi** utilizzato
   - `random_forest.py`: addestra e converte il modello in ONNX  
   - `random_forest.onnx`: modello finale    
 - **Servizio**: Docker container con Flask su porta 5000
-
 
 ## Repository Correlati
 
