@@ -17,6 +17,6 @@ Questo componente contiene il modello di **classificazione esercizi** utilizzato
 
 ## Repository Correlati
 
-- Frontend: [github.com/tuo-user/gymtracker-frontend](https://github.com/tuo-user/gymtracker-frontend)
-- Backend: [github.com/tuo-user/gymtracker-backend](https://github.com/tuo-user/gymtracker-backend)
-- Machine Learning (questo repo): [github.com/tuo-user/gymtracker-ml](https://github.com/tuo-user/gymtracker-ml)
+- Frontend: [github.com/tuo-user/gymtracker-frontend] (https://github.com/tuo-user/gymtracker-frontend)
+- Backend: [github.com/tuo-user/gymtracker-backend] (https://github.com/tuo-user/gymtracker-backend)
+- Machine Learning (questo repo): (https://github.com/UniSalento-IDALab-IoTCourse-2024-2025/wot-project-machine_learning-2024-2025-GymTrackerAI-CausioRizzo)
